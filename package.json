@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "@clerk/clerk-react": "^5.32.1",
+    "@clerk/nextjs": "^6.24.0",
     "@hookform/resolvers": "^5.1.1",
     "@radix-ui/react-alert-dialog": "^1.1.14",
     "@radix-ui/react-avatar": "^1.1.10",
